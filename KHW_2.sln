@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHW_2", "KHW_2\KHW_2.csproj", "{B1180AB9-5D83-4BD1-B2B6-0A42538F6DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{BE93DE29-7C3C-4C85-8A1B-373BF9F895F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1180AB9-5D83-4BD1-B2B6-0A42538F6DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1180AB9-5D83-4BD1-B2B6-0A42538F6DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1180AB9-5D83-4BD1-B2B6-0A42538F6DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1180AB9-5D83-4BD1-B2B6-0A42538F6DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE93DE29-7C3C-4C85-8A1B-373BF9F895F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE93DE29-7C3C-4C85-8A1B-373BF9F895F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE93DE29-7C3C-4C85-8A1B-373BF9F895F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE93DE29-7C3C-4C85-8A1B-373BF9F895F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BE2CC7-F47B-4C10-A412-D06DE0F8A0A9}
+	EndGlobalSection
+EndGlobal
